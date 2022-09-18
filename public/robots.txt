@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fabulous-bienenstitch-47aa24.netlify.app/sitemap-index.xml
